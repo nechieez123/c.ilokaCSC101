@@ -14,7 +14,3 @@
     println!("The compound is {}", ci);
     
     }
-
-
-
-
